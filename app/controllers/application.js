@@ -7,6 +7,7 @@ export default class ApplicationController extends Controller.extend({
   @action
   myAction() {
     this.incrementProperty('count');
+    // eslint-disable-next-line no-console
     console.log('myAction firing', this.count);
   }
 }
