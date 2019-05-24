@@ -20,6 +20,7 @@
   "devDependencies": {
     "@ember/jquery": "^0.6.0",
     "@ember/optional-features": "^0.7.0",
+    "babel-eslint": "^8.2.6",
     "babel-plugin-transform-async-to-generator": "^6.24.1",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
@@ -40,6 +41,7 @@
     "ember-cli-template-lint": "^1.0.0-beta.1",
     "ember-cli-uglify": "^2.1.0",
     "ember-data": "~3.10.0",
+    "ember-decorators": "^6.0.0",
     "ember-electron": "^2.10.0",
     "ember-export-application-global": "^2.0.0",
     "ember-load-initializers": "^2.0.0",
